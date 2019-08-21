@@ -33,12 +33,15 @@
 ### Honorable Mentions 
 
 - __Kurubuk(20.4 km)__: Sezlong/semsiye yok
+
 ![Kuru](./Assets/f47b96a4d8d39ba3f30aab4ad5b033d3.jpg)
 
 - __Kizilbuk(19 km)__ : Tek mekan ahsap evler
+
 ![Kizil](./Assets/kizilbuk-ahsap-evleri.jpg)
 
 - __Domuzbuku(Merkezden sadece tekne ile bence denenebilir. Ben de gidecegim bu sefer)__
+
 ![Domuz](./Assets/Datça-Domuzbükü-Domuz-Çukuru-2.jpg)
 
 ## Yemek/icmek
